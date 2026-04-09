@@ -136,5 +136,4 @@ ViewModel    → State management and business logic
  
 ```
 MIT License — free to use, modify, and distribute.
-See LICENSE file for full terms.
 ```
