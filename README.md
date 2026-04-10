@@ -96,7 +96,7 @@ Clean enough to read in one sitting.
  
 ```bash
 # 1. Clone the repo
-git clone https://github.com/yourusername/markdown-notes-app.git
+git clone https://github.com/LahsineYounes/markdown-notes-app.git
  
 # 2. Open in Android Studio
 # File → Open → select the folder
