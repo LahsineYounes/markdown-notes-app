@@ -7,8 +7,8 @@
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat&logo=jetpack-compose&logoColor=white)](https://developer.android.com/compose)
 [![Room](https://img.shields.io/badge/Room_DB-FF6F00?style=flat&logo=android&logoColor=white)](https://developer.android.com/jetpack/androidx/releases/room)
-[![API](https://img.shields.io/badge/API-26%2B-brightgreen.svg)](https://developer.android.com/reference)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](https://www.linkedin.com/in/lahsine-younes/)
+[![API](https://img.shields.io/badge/API-26%2B-brightgreen.svg)](https://developer.android.com/studio/releases/platforms)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
  
 ---
